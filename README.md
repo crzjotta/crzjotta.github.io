@@ -14,3 +14,9 @@ Gosto de programar em:
 - JavaScript
 - CSS
 - WordPress
+
+## Hobies
+
+- Tocar instrumentos de percussão
+- Cozinhar
+- Jogar bola
