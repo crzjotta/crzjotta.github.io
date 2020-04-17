@@ -10,10 +10,7 @@ Eu sou o Jotta, estudante de programação, amo esportes e comida e gosto de ins
 Gosto de programar em:
 
 - Python
-- HTML
 - JavaScript
-- CSS
-- WordPress
 
 ## Hobbies
 
